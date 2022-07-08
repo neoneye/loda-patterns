@@ -32,13 +32,13 @@ add $0,1
 ; value: 2,3
 
 ; parameter 3
-; number of unique values: 9
-; value: 92,93,99,100,102,104,111,123,170
+; number of unique values: 10
+; value: 92,93,99,100,102,104,111,123,170,1155
 
 ; parameter 4
 ; number of unique values: 2
 ; value: 2,3
 
 ; programs with this pattern
-; number of programs: 15
-; program id: 18331,18333,18335,18401,18438,18442,18476,18537,18589,18618,18623,18653,18671,18703,18758
+; number of programs: 16
+; program id: 18331,18333,18335,18401,18438,18442,18476,18537,18589,18618,18623,18653,18671,18703,18758,87005

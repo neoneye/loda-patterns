@@ -1,0 +1,19 @@
+seq $0,75317 ; source=parameter 0
+div $0,2 ; source=parameter 1
+seq $0,134864 ; source=parameter 2
+
+; parameter 0
+; number of unique values: 15
+; value: 40,1359,2659,6005,14311,14486,40976,46032,75317,75818,82496,111721,126646,177712,198845
+
+; parameter 1
+; number of unique values: 3
+; value: 2,4,6
+
+; parameter 2
+; number of unique values: 20
+; value: 69,1221,1227,2024,3958,4086,5836,7947,7953,14081,28235,38374,63655,65120,70681,70683,123252,134864,159477,273443
+
+; programs with this pattern
+; number of programs: 20
+; program id: 35340,57042,70972,75930,78570,79953,80398,92428,106830,108943,126306,139758,175013,211242,246489,273092,273446,345116,349273,351442

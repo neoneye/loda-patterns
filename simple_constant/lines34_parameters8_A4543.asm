@@ -38,8 +38,8 @@ mov $0,$1
 ; value: 2,3,5
 
 ; parameter 1
-; number of unique values: 2
-; value: 9,10
+; number of unique values: 3
+; value: 4,9,10
 
 ; parameter 2
 ; number of unique values: 4
@@ -50,21 +50,21 @@ mov $0,$1
 ; value: 1,2
 
 ; parameter 4
-; number of unique values: 27
-; value: 2,5,6,7,19,23,31,34,35,37,44,45,52,58,60,61,65,66,67,71,76,84,89,91,93,95,96
+; number of unique values: 46
+; value: 2,3,5,6,7,8,19,21,23,29,31,33,34,35,37,39,40,41,44,45,46,52,55,56,58,61,62,63,65,66,67,69,70,71,72,76,82,84,85,86,89,91,92,93,95,96
 
 ; parameter 5
 ; number of unique values: 2
 ; value: 1,2
 
 ; parameter 6
-; number of unique values: 4
-; value: 6,7,9,10
+; number of unique values: 5
+; value: 4,6,7,9,10
 
 ; parameter 7
-; number of unique values: 4
-; value: 6,7,9,10
+; number of unique values: 5
+; value: 4,6,7,9,10
 
 ; programs with this pattern
-; number of programs: 28
-; program id: 4543,4544,4562,4568,4576,10475,10479,10486,10489,10490,10491,10498,10499,10505,10511,10513,10514,10517,10518,10519,10523,10528,10535,10540,10542,10544,10546,10547
+; number of programs: 48
+; program id: 4543,4544,4546,4549,4562,4568,4576,4582,10475,10477,10479,10484,10486,10488,10489,10490,10491,10493,10494,10495,10498,10499,10500,10505,10508,10509,10511,10514,10515,10516,10517,10518,10519,10521,10522,10523,10524,10528,10533,10535,10536,10537,10540,10542,10543,10544,10546,10547
