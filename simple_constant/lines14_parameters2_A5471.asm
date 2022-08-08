@@ -14,13 +14,13 @@ mov $0,$2
 add $0,1
 
 ; parameter 0
-; number of unique values: 9
-; value: 1,6,10,12,16,18,366,1296,10000
+; number of unique values: 10
+; value: 1,6,10,12,16,18,58,366,1296,10000
 
 ; parameter 1
 ; number of unique values: 10
-; value: 1,2,3,4,5,6,8,9,10,14
+; value: 2,3,4,5,6,8,9,10,14,40
 
 ; programs with this pattern
-; number of programs: 15
-; program id: 5471,7635,7639,55472,80020,138368,153502,243451,256374,256834,256838,285809,285810,285812,320752
+; number of programs: 16
+; program id: 5471,7635,7639,48988,56909,80020,153502,201486,243451,256374,256834,256838,285809,285810,285812,320752

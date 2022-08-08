@@ -10,21 +10,21 @@ lpe
 mov $0,$1
 
 ; parameter 0
-; number of unique values: 6
-; value: 1,2,4,10,12,13
+; number of unique values: 4
+; value: 1,2,10,13
 
 ; parameter 1
-; number of unique values: 2
-; value: 2,4
+; number of unique values: 3
+; value: 2,4,10
 
 ; parameter 2
-; number of unique values: 4
-; value: 2,3,4,6
+; number of unique values: 5
+; value: 2,3,4,6,10
 
 ; parameter 3
-; number of unique values: 14
-; value: -3,-1,2,3,4,10,11,13,14,16,17,18,19,20
+; number of unique values: 13
+; value: -3,-2,-1,2,3,4,11,14,15,16,17,19,20
 
 ; programs with this pattern
-; number of programs: 20
-; program id: 4514,33047,33049,33050,33052,59905,63012,63694,97257,97259,97260,131851,169967,197351,197352,197353,215090,332497,339601,342802
+; number of programs: 18
+; program id: 4514,33047,33050,33051,59905,63012,63694,97257,97260,102489,131851,197351,197353,215090,318702,332497,339601,342802
